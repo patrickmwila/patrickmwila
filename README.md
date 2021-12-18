@@ -9,9 +9,6 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickmwila&hide=less,scss,hack&show_icons=true&theme=chartreuse-dark&layout=compact&langs_count=8" alt="Patrick" />
 </p>
 
-<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=patrickmwila&count_private=true&count_public=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true">
-</p> 
-
 <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=patrickmwila&theme=chartreuse-dark"></p>
 <br>
 <p align="center">
