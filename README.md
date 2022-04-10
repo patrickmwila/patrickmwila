@@ -3,7 +3,7 @@
 
 > ### <p>I am an artistic web developer with good knowledge of both front-end and back-end techniques. I love structure and order and I also stand for quality. I enjoy spending time on fixing little details and optimizing web apps. Furthermore, I like working in a team, you'll learn faster and much more. As the saying goes: 'two heads are better than one'. <br>- 💼 any freelance work? reach me out, [email](mailto:patrickmwila.org@gmail.com) </p>
   
-<img align="right" src="code.gif" alt="code-gif-img" width="340" height="220">
+<img align="right" src="code.gif" alt="code-gif-img" width="340" height="225">
 
 > ### languages and tools: <br> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 
