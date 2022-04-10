@@ -5,4 +5,4 @@
   
 <img align="right" src="code.gif" alt="code-gif-img" width="340" height="200">
 
-<img width="400" height="200" align="right" src="https://github-readme-stats-defcon27.vercel.app/api/top-langs/?username=patrickmwila&langs_count=6&hide=handlebars,jupyter notebook,css theme=react&line_height=27&layout=compact" />
+<img width="400" height="210" align="right" src="https://github-readme-stats-defcon27.vercel.app/api/top-langs/?username=patrickmwila&langs_count=6&hide=handlebars,jupyter notebook,css theme=react&line_height=27&layout=compact" />
