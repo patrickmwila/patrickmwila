@@ -7,6 +7,8 @@
 
 > ### languages and tools: <br> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 
-<p align="center">
-<img width="450" align="right" src="https://github-readme-stats-defcon27.vercel.app/api?username=patrickmwila&show_icons=true&line_height=21&theme=react" alt="Patrick's Github Stats" /> <img width="340" height="155" align="right" src="https://github-readme-stats-defcon27.vercel.app/api/top-langs/?username=patrickmwila&langs_count=6&hide=handlebars,jupyter notebook,css theme=react&line_height=27&layout=compact" />
-</p>
+<img width="340" height="155" align="right" src="https://github-readme-stats-defcon27.vercel.app/api/top-langs/?username=patrickmwila&langs_count=6&hide=handlebars,jupyter notebook,css theme=react&line_height=27&layout=compact" />
+
+<!--
+<img width="450" align="right" src="https://github-readme-stats-defcon27.vercel.app/api?username=patrickmwila&show_icons=true&line_height=21&theme=react" alt="Patrick's Github Stats" />
+-->
